@@ -1,0 +1,2 @@
+cd ..
+git ls-list -i -exclude--

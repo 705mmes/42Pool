@@ -1,0 +1,4 @@
+.vscode
+rush-02
+*.o
+*.dSYM
